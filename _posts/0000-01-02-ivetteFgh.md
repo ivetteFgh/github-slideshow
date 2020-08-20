@@ -2,5 +2,8 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Lorem ipsum dolor sit amet, consectetur
+
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
 Use the left arrow to go back!
